@@ -1,0 +1,10 @@
+const char* SSID = "Digicel_WiFi_tux8";
+const char* PASS = "myfEsDQU";
+const char* ENDPOINT = "https://ecse3038-project-kdbn.onrender.com";
+const char* API_KEY = "";
+const bool IS_WOKWI = false;
+const int CHANNEL = 6;
+const int temp_Sensor = 4;          
+const int PIR_Pin = 5;                 
+const int FAN_Pin = 18;               
+const int LIGHT_Pin = 19;             
