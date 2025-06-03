@@ -1,6 +1,6 @@
 const char* SSID = "Digicel_WiFi_tux8";
 const char* PASS = "myfEsDQU";
-const char* ENDPOINT = "https://ecse3038-project-kdbn.onrender.com";
+const char* ENDPOINT = "https://ecse-project-3038.onrender.com";
 const char* API_KEY = "";
 const bool IS_WOKWI = false;
 const int CHANNEL = 6;
